@@ -10,7 +10,7 @@ A passionate Cloud Devops Engineer from India
 
 🔭 I’m currently working on AWS and Devops Projects
 
-🌱 I’m currently learnig Python and k8s
+🌱 I’m currently learnig Python and kubernetes
 
 👨‍💻 All of my projects are available at https://github.com/
 
