@@ -12,7 +12,7 @@ A passionate Cloud Devops Engineer from India
 
 🌱 I’m currently learnig Python and kubernetes
 
-👨‍💻 All of my projects are available at https://github.com/
+👨‍💻 All of my projects are available at https://github.com/rajeshmamuddu?tab=repositories
 
 📝 I regularly write articles on https://medium.com/@rajeshmamuddu
 
