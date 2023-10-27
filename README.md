@@ -1,5 +1,8 @@
-SushantOps/README.md
-MasterHead
+
+![image](https://github.com/rajeshmamuddu/rajeshmamuddu/assets/101260575/4b1efb0e-90fb-4deb-a6eb-56a5e40f9bac)
+
+rajeshmamuddu
+/README.md
 
 Hi 👋, I'm Rajeshmamuddu
 A passionate Cloud Devops Engineer from India
